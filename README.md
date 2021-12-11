@@ -1,9 +1,10 @@
 # Images_Preprocessing
 segmentation and cropping.py code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. 
 
-THe original Image looks like:
+The original Image looks like:
 <p align="center">
-  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/original.png" />
+  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/original.png" /> <br/>
+  Taken from COV19-CT-DB Database 
 </p>      
 <br/>
 

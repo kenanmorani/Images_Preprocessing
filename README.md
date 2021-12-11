@@ -1,5 +1,5 @@
 # Images_Preprocessing
-segmentation and cropping.py code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. 
+segmentation and cropping.py code uses python open-cv for gussian blurring, cropping and histogram segmentation of medical images. The code is an attempt to segment lung CT scan images. 
 
 The original Image looks like:
 <p align="center">

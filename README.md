@@ -17,3 +17,6 @@ The resulting image looks as follows:
 
 ## 2. COV19D_CT_images_Processing_Using_Contour_Cropping.ipynb
 In an attempt to segment and highlight region of interests in the images, this code applies a function to crop Region of Interests on the CT images using open-cv. Results of cropping can be seen in the code on one of the CT images- a central slice.
+
+## 3. Image-Segmentation-Methods-Comparison.ipynb
+The notebook compares three different segmentation methodds; thresholding [otsu], Edge-Based, and Region-based.

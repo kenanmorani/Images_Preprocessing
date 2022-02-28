@@ -22,4 +22,8 @@ In an attempt to segment and highlight region of interests in the images, this c
 The notebook compares three different segmentation methodds; thresholding [otsu], Edge-Based, and Region-based.
 
 ## 4. Region_Based_Segmentation.ipynb
-The notebook shows region based image segmentation method to segment out the lung from the chect CT image.
+The notebook shows region based image segmentation method to segment out the lung from the chect CT image. The result for one image is:
+<p align="center">
+  <img src="https://github.com/kenanmorani/Images_Preprocessing/blob/main/FIgures/lungs%20segmentation.png" />
+</p>      
+<br/>
